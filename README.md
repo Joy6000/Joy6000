@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joy6000
 - 👀 I’m interested in Discord.js
 - 🌱 I’m currently learning TypeScript
-- ⌨ I'm currently working on LightSwitch, a multipurpose discord bot.
+- ⌨ I'm currently working on a Discord.js Bot Prefab.
 - 📫 How to reach me: You do not.
 
 <!---
