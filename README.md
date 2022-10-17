@@ -9,7 +9,7 @@
 #### Typescript
 #### HTML, CSS
 ### >Libraries<
-#### Node.js > Discord.js, pm2, sql, etc
+#### Node.js > Discord.js, pm2, sequelize, etc
 
 Contact by email @ stop.ts0894@gmail.com
 or on Discord @ stop.ts#0894
