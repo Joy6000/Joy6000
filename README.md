@@ -12,7 +12,7 @@
 #### Node.js > Discord.js, pm2, sequelize, etc
 
 Contact by email @ stop.ts0894@gmail.com
-or on Discord @ stop.ts#0894
+or on Discord @ halted#0894
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joy6000&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="My GitHub Statistics">
   
