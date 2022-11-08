@@ -1,5 +1,6 @@
 # Fullstack dev
-## Specialties in
+## Specialties in [![Discord Presence](https://lanyard.cnrad.dev/api/1036672081607262218)](https://discord.com/users/1036672081607262218)
+
 ### >Databases<
 #### SQL
 #### MongoDB
@@ -17,7 +18,6 @@ or on Discord @ Tuva#4626
   <img display="inline" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joy6000&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="My GitHub Statistics">
   
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/1036672081607262218)](https://discord.com/users/1036672081607262218)
   
 <!---
 Joy6000/Joy6000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
