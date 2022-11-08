@@ -14,7 +14,7 @@
 Contact by email @ stop.ts0894@gmail.com
 or on Discord @ Tuva#4626
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joy6000&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="My GitHub Statistics">
+  <img display="inline" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joy6000&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="My GitHub Statistics">
   
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1036672081607262218)](https://discord.com/users/1036672081607262218)
